@@ -12,5 +12,5 @@ https://cdn.jsdelivr.net/gh/{GitHub用户名}/{仓库名}@{分支名}/{图片名
 
 例：
 ```
-https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/zhijiandeshiyi.jpg
+https://cdn.jsdelivr.net/gh/KINK1728/image-hosting@main/test.jpg
 ```
